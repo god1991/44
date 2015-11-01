@@ -137,4 +137,4 @@ git remote查看远程库信息
     fetch = +refs/heads/*:refs/remotes/origin/*
     push = refs/heads/master:refs/heads/master
 ```
-中午吃饭的时候
+中午吃饭的时候,运行一下服务器本地的对比。很费时间，但是很有效。不要盲目的pull
