@@ -19,7 +19,7 @@
   3. List
   4. Set
   5. Zset  
-
+![1.bmp](redis/1.bmp "")
 ## keys
 >*  keys *   
 *  exists key   
